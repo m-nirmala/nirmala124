@@ -1,6 +1,6 @@
  Hi, I'm Nirmala 👋
 
- About Me
+ 
 I'm a Frontend Developer based in Tamil Nadu, India. Passionate about creating responsive and engaging web applications using HTML, CSS, and JavaScript.
 
 🌱 Currently learning more about frontend frameworks and UI/UX design.
@@ -12,8 +12,10 @@ I'm a Frontend Developer based in Tamil Nadu, India. Passionate about creating r
  Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nirmala)
 
-Skills
+Skills:
+
 Languages: HTML5, CSS3, JavaScript
+
 Tools: Git
  
  
