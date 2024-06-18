@@ -10,7 +10,7 @@ I'm a Frontend Developer based in Tamil Nadu, India. Passionate about creating r
 📫 Reach me at mnirmala274@gmail.com
 
  Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nirmala)
+- https://www.linkedin.com/in/nirmala-murugan/
 
 Skills:
 
